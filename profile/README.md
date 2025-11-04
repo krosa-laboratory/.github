@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Kevin Rosa Machuca  
+# 👋 ¡Hola! Soy Kevin Rosa  
 
 Soy **ingeniero electrónico** con pasión por la **investigación, el desarrollo tecnológico y la creación de prototipos funcionales**.  
 Me interesa todo lo que une el **hardware, el software y el diseño**, desde la primera idea hasta el producto final.
