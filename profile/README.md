@@ -36,7 +36,7 @@ Mi objetivo es seguir ampliando mi portfolio de soluciones tecnológicas y compa
 ---
 
 ### 💬 Hablemos
-Si querés intercambiar ideas, colaborar o simplemente charlar sobre tecnología, ¡me encantaría escucharte!
+Si quieres intercambiar ideas, colaborar o simplemente charlar sobre tecnología, ¡me encantaría escucharte!
 
 📫 **Contacto:**  
 - ✉️ `kevin.mrosa96@gmail.com`  
